@@ -1,4 +1,4 @@
-# docker
+# dockerWordpress
 
 ##You must have Docker installed on your computer!
 
